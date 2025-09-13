@@ -1,0 +1,11 @@
+{
+  "name": "npgi",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.29.7"
+  }
+}
