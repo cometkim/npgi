@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "publishConfig": {
     "access": "public",
-    "provenance": true
+    "provenance": true,
+    "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "@changesets/cli": "^2.29.7"
