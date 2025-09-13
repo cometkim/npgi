@@ -1,6 +1,10 @@
 {
   "name": "npgi",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cometkim/npgi.git"
+  },
   "publishConfig": {
     "access": "public",
     "provenance": true,
