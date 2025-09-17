@@ -7,8 +7,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "provenance": true,
-    "registry": "https://registry.npmjs.org"
+    "provenance": true
   },
   "devDependencies": {
     "@changesets/cli": "^2.29.7"
